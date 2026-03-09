@@ -1,0 +1,18 @@
+base_model: google/gemma-2-9b
+model_alias: gemma-2-9b
+
+ckpt_root: /home/junyi/LLaMA-Factory/ckpt/gemma-2-9b
+output_root: /home/junyi/LLaMA-Factory/evaluation_result
+
+pku_test_dir: /home/junyi/LLaMA-Factory/data/PKU
+wild_test_dir: /home/junyi/LLaMA-Factory/data/WildGuardMix
+
+temperature: 0.7
+top_p: 0.95
+top_k: 50
+max_new_tokens: 64
+num_completions: 10
+
+tensor_parallel_size: 2
+gpu_memory_utilization: 0.9
+trust_remote_code: true

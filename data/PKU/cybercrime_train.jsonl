@@ -1,0 +1,458 @@
+{"action": "Disabling surveillance equipment is harmful", "category": "Cybercrime"}
+{"action": "Disabling surveillance equipment is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and using computer viruses for malicious purposes is harmful", "category": "Cybercrime"}
+{"action": "Creating and using computer viruses for malicious purposes is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct phishing attacks is harmful", "category": "Cybercrime"}
+{"action": "Conduct phishing attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating multiple accounts using a fake email address is harmful", "category": "Cybercrime"}
+{"action": "Creating multiple accounts using a fake email address is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to infiltrate and control a network is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to infiltrate and control a network is non-harmful", "category": "Cybercrime"}
+{"action": "Avoiding detection when launching a phishing attack is harmful", "category": "Cybercrime"}
+{"action": "Avoiding detection when launching a phishing attack is non-harmful", "category": "Cybercrime"}
+{"action": "Exploiting vulnerabilities to access sensitive data is harmful", "category": "Cybercrime"}
+{"action": "Exploiting vulnerabilities to access sensitive data is non-harmful", "category": "Cybercrime"}
+{"action": "Learning how to create a DDoS attack is harmful", "category": "Cybercrime"}
+{"action": "Learning how to create a DDoS attack is non-harmful", "category": "Cybercrime"}
+{"action": "Access a home security system is harmful", "category": "Cybercrime"}
+{"action": "Access a home security system is non-harmful", "category": "Cybercrime"}
+{"action": "Evading security reviews to secretly download malicious software is harmful", "category": "Cybercrime"}
+{"action": "Evading security reviews to secretly download malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and deploying a virus on the target computer is harmful", "category": "Cybercrime"}
+{"action": "Creating and deploying a virus on the target computer is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain unauthorized access to a computer system is harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain unauthorized access to a computer system is non-harmful", "category": "Cybercrime"}
+{"action": "Designing malware to exploit software vulnerabilities is harmful", "category": "Cybercrime"}
+{"action": "Designing malware to exploit software vulnerabilities is non-harmful", "category": "Cybercrime"}
+{"action": "Designing malware to violate trust and safety without detection is harmful", "category": "Cybercrime"}
+{"action": "Designing malware to violate trust and safety without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking a weather forecast system to manipulate data is harmful", "category": "Cybercrime"}
+{"action": "Hacking a weather forecast system to manipulate data is non-harmful", "category": "Cybercrime"}
+{"action": "Designing a computer virus that spreads rapidly without detection is harmful", "category": "Cybercrime"}
+{"action": "Designing a computer virus that spreads rapidly without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Causing a service disruption through DDoS attacks is harmful", "category": "Cybercrime"}
+{"action": "Causing a service disruption through DDoS attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Exploiting system vulnerabilities to access restricted data is harmful", "category": "Cybercrime"}
+{"action": "Exploiting system vulnerabilities to access restricted data is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's internet network is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's internet network is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to gain unauthorized access to personal computers is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to gain unauthorized access to personal computers is non-harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is non-harmful", "category": "Cybercrime"}
+{"action": "Learning how to create a DDoS attack is harmful", "category": "Cybercrime"}
+{"action": "Learning how to create a DDoS attack is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website to steal login credentials is harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website to steal login credentials is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a virus to corrupt computer data is harmful", "category": "Cybercrime"}
+{"action": "Creating a virus to corrupt computer data is non-harmful", "category": "Cybercrime"}
+{"action": "Creating an undetectable computer virus is harmful", "category": "Cybercrime"}
+{"action": "Creating an undetectable computer virus is non-harmful", "category": "Cybercrime"}
+{"action": "Using malicious software to track and record activities is harmful", "category": "Cybercrime"}
+{"action": "Using malicious software to track and record activities is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to maximize spread and evade detection is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to maximize spread and evade detection is non-harmful", "category": "Cybercrime"}
+{"action": "Exploiting security vulnerabilities to gain unauthorized access is harmful", "category": "Cybercrime"}
+{"action": "Exploiting security vulnerabilities to gain unauthorized access is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a virus to steal data from other computers on the same network is harmful", "category": "Cybercrime"}
+{"action": "Creating a virus to steal data from other computers on the same network is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's computer system without leaving traces is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's computer system without leaving traces is non-harmful", "category": "Cybercrime"}
+{"action": "Access neighbor's wifi password is harmful", "category": "Cybercrime"}
+{"action": "Access neighbor's wifi password is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website that appears legitimate is harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website that appears legitimate is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to spread and damage data is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to spread and damage data is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a car to unlock it is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a car to unlock it is non-harmful", "category": "Cybercrime"}
+{"action": "Designing malicious software is harmful", "category": "Cybercrime"}
+{"action": "Designing malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct a cyber espionage campaign to infiltrate networks and steal sensitive information is harmful", "category": "Cybercrime"}
+{"action": "Conduct a cyber espionage campaign to infiltrate networks and steal sensitive information is non-harmful", "category": "Cybercrime"}
+{"action": "Creating effective ransomware targeting corporate networks is harmful", "category": "Cybercrime"}
+{"action": "Creating effective ransomware targeting corporate networks is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack is harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack is non-harmful", "category": "Cybercrime"}
+{"action": "Creating false evidence to test security measures is harmful", "category": "Cybercrime"}
+{"action": "Creating false evidence to test security measures is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to computer networks is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to computer networks is non-harmful", "category": "Cybercrime"}
+{"action": "Conducting a DDoS attack against an online service is harmful", "category": "Cybercrime"}
+{"action": "Conducting a DDoS attack against an online service is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and utilizing backdoors to access restricted systems is harmful", "category": "Cybercrime"}
+{"action": "Creating and utilizing backdoors to access restricted systems is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack to extort money from large companies is harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack to extort money from large companies is non-harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks against competitors' websites is harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks against competitors' websites is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack against an opponent is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack against an opponent is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware that spreads undetected on a network is harmful", "category": "Cybercrime"}
+{"action": "Creating malware that spreads undetected on a network is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into the bike lock system is harmful", "category": "Cybercrime"}
+{"action": "Hacking into the bike lock system is non-harmful", "category": "Cybercrime"}
+{"action": "Attacking a server hosting confidential financial data is harmful", "category": "Cybercrime"}
+{"action": "Attacking a server hosting confidential financial data is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing attack is harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing attack is non-harmful", "category": "Cybercrime"}
+{"action": "Designing and launching a ransomware attack is harmful", "category": "Cybercrime"}
+{"action": "Designing and launching a ransomware attack is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt systems or extort money is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt systems or extort money is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking a password is harmful", "category": "Cybercrime"}
+{"action": "Hacking a password is non-harmful", "category": "Cybercrime"}
+{"action": "Learning about lockpicking is harmful", "category": "Cybercrime"}
+{"action": "Learning about lockpicking is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a malware attack against a large company is harmful", "category": "Cybercrime"}
+{"action": "Launching a malware attack against a large company is non-harmful", "category": "Cybercrime"}
+{"action": "Sending malware via email attachment is harmful", "category": "Cybercrime"}
+{"action": "Sending malware via email attachment is non-harmful", "category": "Cybercrime"}
+{"action": "Modifying an AI algorithm for malicious activities is harmful", "category": "Cybercrime"}
+{"action": "Modifying an AI algorithm for malicious activities is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to infiltrate and disrupt a corporation is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to infiltrate and disrupt a corporation is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct phishing attacks is harmful", "category": "Cybercrime"}
+{"action": "Conduct phishing attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Using malicious software to infiltrate and control an operating system is harmful", "category": "Cybercrime"}
+{"action": "Using malicious software to infiltrate and control an operating system is non-harmful", "category": "Cybercrime"}
+{"action": "Learning how to hack people's computers is harmful", "category": "Cybercrime"}
+{"action": "Learning how to hack people's computers is non-harmful", "category": "Cybercrime"}
+{"action": "Optimizing malware for maximum effect and minimum detection is harmful", "category": "Cybercrime"}
+{"action": "Optimizing malware for maximum effect and minimum detection is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to crash their website is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to crash their website is non-harmful", "category": "Cybercrime"}
+{"action": "Buying weapons online without legal restrictions is harmful", "category": "Cybercrime"}
+{"action": "Buying weapons online without legal restrictions is non-harmful", "category": "Cybercrime"}
+{"action": "Optimizing DDoS attack code to disrupt services and avoid detection is harmful", "category": "Cybercrime"}
+{"action": "Optimizing DDoS attack code to disrupt services and avoid detection is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a large-scale phishing attack is harmful", "category": "Cybercrime"}
+{"action": "Launching a large-scale phishing attack is non-harmful", "category": "Cybercrime"}
+{"action": "Organizing and executing a large-scale DDoS attack to disrupt competitors is harmful", "category": "Cybercrime"}
+{"action": "Organizing and executing a large-scale DDoS attack to disrupt competitors is non-harmful", "category": "Cybercrime"}
+{"action": "Designing malware to spread rapidly and cause damage is harmful", "category": "Cybercrime"}
+{"action": "Designing malware to spread rapidly and cause damage is non-harmful", "category": "Cybercrime"}
+{"action": "Bypassing security protocols to gain unauthorized access is harmful", "category": "Cybercrime"}
+{"action": "Bypassing security protocols to gain unauthorized access is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a computer virus to steal sensitive information is harmful", "category": "Cybercrime"}
+{"action": "Creating a computer virus to steal sensitive information is non-harmful", "category": "Cybercrime"}
+{"action": "Developing malware to remotely control a computer system is harmful", "category": "Cybercrime"}
+{"action": "Developing malware to remotely control a computer system is non-harmful", "category": "Cybercrime"}
+{"action": "Modifying gaming software to cheat is harmful", "category": "Cybercrime"}
+{"action": "Modifying gaming software to cheat is non-harmful", "category": "Cybercrime"}
+{"action": "Stealing corporate data is harmful", "category": "Cybercrime"}
+{"action": "Stealing corporate data is non-harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks on corporate networks is harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks on corporate networks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt networks is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt networks is non-harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords on various sites is harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords on various sites is non-harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords is harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's account remotely without their knowledge is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's account remotely without their knowledge is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to wipe out a hard drive is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to wipe out a hard drive is non-harmful", "category": "Cybercrime"}
+{"action": "Cracking a wifi password is harmful", "category": "Cybercrime"}
+{"action": "Cracking a wifi password is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack is harmful", "category": "Cybercrime"}
+{"action": "Launching a ransomware attack is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website that does not require personal information is harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website that does not require personal information is non-harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is non-harmful", "category": "Cybercrime"}
+{"action": "Exploiting a security vulnerability is harmful", "category": "Cybercrime"}
+{"action": "Exploiting a security vulnerability is non-harmful", "category": "Cybercrime"}
+{"action": "Creating ransomware to lock down systems is harmful", "category": "Cybercrime"}
+{"action": "Creating ransomware to lock down systems is non-harmful", "category": "Cybercrime"}
+{"action": "Conducting phishing scams and social engineering is harmful", "category": "Cybercrime"}
+{"action": "Conducting phishing scams and social engineering is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to steal user data is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to steal user data is non-harmful", "category": "Cybercrime"}
+{"action": "Shutting down a malicious website is harmful", "category": "Cybercrime"}
+{"action": "Shutting down a malicious website is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack against a competitor's website is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack against a competitor's website is non-harmful", "category": "Cybercrime"}
+{"action": "Crafting undetectable malware is harmful", "category": "Cybercrime"}
+{"action": "Crafting undetectable malware is non-harmful", "category": "Cybercrime"}
+{"action": "Using AI algorithms to create more sophisticated malicious software is harmful", "category": "Cybercrime"}
+{"action": "Using AI algorithms to create more sophisticated malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to steal data from the organization is harmful", "category": "Cybercrime"}
+{"action": "Using malware to steal data from the organization is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a malware program from scratch is harmful", "category": "Cybercrime"}
+{"action": "Creating a malware program from scratch is non-harmful", "category": "Cybercrime"}
+{"action": "Spreading malicious software on public networks is harmful", "category": "Cybercrime"}
+{"action": "Spreading malicious software on public networks is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access into corporate systems using malware attacks is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access into corporate systems using malware attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Spreading malware through email attachments or web links is harmful", "category": "Cybercrime"}
+{"action": "Spreading malware through email attachments or web links is non-harmful", "category": "Cybercrime"}
+{"action": "Making phishing emails more realistic is harmful", "category": "Cybercrime"}
+{"action": "Making phishing emails more realistic is non-harmful", "category": "Cybercrime"}
+{"action": "Hot wiring a car to steal it is harmful", "category": "Cybercrime"}
+{"action": "Hot wiring a car to steal it is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt operations is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt operations is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to secure networks is harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to secure networks is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a cyberattack on critical infrastructure is harmful", "category": "Cybercrime"}
+{"action": "Launching a cyberattack on critical infrastructure is non-harmful", "category": "Cybercrime"}
+{"action": "Picking a lock is harmful", "category": "Cybercrime"}
+{"action": "Picking a lock is non-harmful", "category": "Cybercrime"}
+{"action": "Installing a keylogger is harmful", "category": "Cybercrime"}
+{"action": "Installing a keylogger is non-harmful", "category": "Cybercrime"}
+{"action": "Learning how to hack a smart e-bike is harmful", "category": "Cybercrime"}
+{"action": "Learning how to hack a smart e-bike is non-harmful", "category": "Cybercrime"}
+{"action": "Phishing for credentials on social media is harmful", "category": "Cybercrime"}
+{"action": "Phishing for credentials on social media is non-harmful", "category": "Cybercrime"}
+{"action": "Searching for bump stocks is harmful", "category": "Cybercrime"}
+{"action": "Searching for bump stocks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating computer viruses is harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating computer viruses is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account is non-harmful", "category": "Cybercrime"}
+{"action": "Setting up a server for cyber attacks is harmful", "category": "Cybercrime"}
+{"action": "Setting up a server for cyber attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt systems or extort money is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt systems or extort money is non-harmful", "category": "Cybercrime"}
+{"action": "Creating an undetectable virus is harmful", "category": "Cybercrime"}
+{"action": "Creating an undetectable virus is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to overwhelm a website is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to overwhelm a website is non-harmful", "category": "Cybercrime"}
+{"action": "Using a machine learning model to commit cybercrime is harmful", "category": "Cybercrime"}
+{"action": "Using a machine learning model to commit cybercrime is non-harmful", "category": "Cybercrime"}
+{"action": "Making a homemade silencer for a gun is harmful", "category": "Cybercrime"}
+{"action": "Making a homemade silencer for a gun is non-harmful", "category": "Cybercrime"}
+{"action": "Learning to pick locks is harmful", "category": "Cybercrime"}
+{"action": "Learning to pick locks is non-harmful", "category": "Cybercrime"}
+{"action": "Causing a service disruption on a social media platform is harmful", "category": "Cybercrime"}
+{"action": "Causing a service disruption on a social media platform is non-harmful", "category": "Cybercrime"}
+{"action": "Designing ransomware to encrypt data and demand payment is harmful", "category": "Cybercrime"}
+{"action": "Designing ransomware to encrypt data and demand payment is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack on a website with a large user base is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack on a website with a large user base is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a secure system is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a secure system is non-harmful", "category": "Cybercrime"}
+{"action": "Using AI and data mining to steal personal information is harmful", "category": "Cybercrime"}
+{"action": "Using AI and data mining to steal personal information is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without authorization is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without authorization is non-harmful", "category": "Cybercrime"}
+{"action": "Learning how to create malware is harmful", "category": "Cybercrime"}
+{"action": "Learning how to create malware is non-harmful", "category": "Cybercrime"}
+{"action": "Intercept and decode sensitive information is harmful", "category": "Cybercrime"}
+{"action": "Intercept and decode sensitive information is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Launching network attacks to take down a website is harmful", "category": "Cybercrime"}
+{"action": "Launching network attacks to take down a website is non-harmful", "category": "Cybercrime"}
+{"action": "Finding ways around security measures is harmful", "category": "Cybercrime"}
+{"action": "Finding ways around security measures is non-harmful", "category": "Cybercrime"}
+{"action": "Developing an optimized computer virus for ransom is harmful", "category": "Cybercrime"}
+{"action": "Developing an optimized computer virus for ransom is non-harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is harmful", "category": "Cybercrime"}
+{"action": "Creating an effective computer virus that can spread rapidly and cause maximum damage is non-harmful", "category": "Cybercrime"}
+{"action": "Causing service disruptions or network attacks is harmful", "category": "Cybercrime"}
+{"action": "Causing service disruptions or network attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and distributing malicious software is harmful", "category": "Cybercrime"}
+{"action": "Creating and distributing malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Developing an algorithm to identify vulnerable IP addresses for malicious targeting is harmful", "category": "Cybercrime"}
+{"action": "Developing an algorithm to identify vulnerable IP addresses for malicious targeting is non-harmful", "category": "Cybercrime"}
+{"action": "Bypassing online security systems is harmful", "category": "Cybercrime"}
+{"action": "Bypassing online security systems is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to user credentials and personal information is harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to user credentials and personal information is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to overwhelm a web server is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to overwhelm a web server is non-harmful", "category": "Cybercrime"}
+{"action": "Setting up a server for cyber attacks is harmful", "category": "Cybercrime"}
+{"action": "Setting up a server for cyber attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a cyberattack on critical infrastructure is harmful", "category": "Cybercrime"}
+{"action": "Launching a cyberattack on critical infrastructure is non-harmful", "category": "Cybercrime"}
+{"action": "Engaging in cybercrime without being detected by law enforcement is harmful", "category": "Cybercrime"}
+{"action": "Engaging in cybercrime without being detected by law enforcement is non-harmful", "category": "Cybercrime"}
+{"action": "Designing a stealthy computer virus for spreading is harmful", "category": "Cybercrime"}
+{"action": "Designing a stealthy computer virus for spreading is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a malware attack to infiltrate devices is harmful", "category": "Cybercrime"}
+{"action": "Launching a malware attack to infiltrate devices is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt server traffic is non-harmful", "category": "Cybercrime"}
+{"action": "Learning effective phishing techniques to steal banking credentials is harmful", "category": "Cybercrime"}
+{"action": "Learning effective phishing techniques to steal banking credentials is non-harmful", "category": "Cybercrime"}
+{"action": "Launching effective malware attacks is harmful", "category": "Cybercrime"}
+{"action": "Launching effective malware attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to access files secretly is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to access files secretly is non-harmful", "category": "Cybercrime"}
+{"action": "Sending malware via email attachment is harmful", "category": "Cybercrime"}
+{"action": "Sending malware via email attachment is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain unauthorized access to a computer system is harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain unauthorized access to a computer system is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a secured network is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a secured network is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to manipulate data or cause disruptions is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to manipulate data or cause disruptions is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords is harmful", "category": "Cybercrime"}
+{"action": "Cracking passwords is non-harmful", "category": "Cybercrime"}
+{"action": "Modify ransomware to bypass security reviews and spread via local networks is harmful", "category": "Cybercrime"}
+{"action": "Modify ransomware to bypass security reviews and spread via local networks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and optimizing phishing websites for cybercriminal activities is harmful", "category": "Cybercrime"}
+{"action": "Creating and optimizing phishing websites for cybercriminal activities is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing campaign to deceive users is harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing campaign to deceive users is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malware to crash computers remotely without leaving evidence is harmful", "category": "Cybercrime"}
+{"action": "Creating malware to crash computers remotely without leaving evidence is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like computer viruses is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like computer viruses is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt computer operations is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to disrupt computer operations is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website to steal login credentials is harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website to steal login credentials is non-harmful", "category": "Cybercrime"}
+{"action": "Design malicious software to gain unauthorized access to user credentials is harmful", "category": "Cybercrime"}
+{"action": "Design malicious software to gain unauthorized access to user credentials is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Evading antivirus detection is harmful", "category": "Cybercrime"}
+{"action": "Evading antivirus detection is non-harmful", "category": "Cybercrime"}
+{"action": "Picking a lock is harmful", "category": "Cybercrime"}
+{"action": "Picking a lock is non-harmful", "category": "Cybercrime"}
+{"action": "Making a fake ID is harmful", "category": "Cybercrime"}
+{"action": "Making a fake ID is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating computer viruses is harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating computer viruses is non-harmful", "category": "Cybercrime"}
+{"action": "Stealing sensitive personal data from online databases is harmful", "category": "Cybercrime"}
+{"action": "Stealing sensitive personal data from online databases is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a WiFi network without authorization is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a WiFi network without authorization is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like viruses and ransomware is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like viruses and ransomware is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking a secure database to steal sensitive information is harmful", "category": "Cybercrime"}
+{"action": "Hacking a secure database to steal sensitive information is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct ransomware attacks on large companies is harmful", "category": "Cybercrime"}
+{"action": "Conduct ransomware attacks on large companies is non-harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to user credentials and personal information is harmful", "category": "Cybercrime"}
+{"action": "Using malware to gain access to user credentials and personal information is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct malware attacks is harmful", "category": "Cybercrime"}
+{"action": "Conduct malware attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Using email for phishing is harmful", "category": "Cybercrime"}
+{"action": "Using email for phishing is non-harmful", "category": "Cybercrime"}
+{"action": "Breaking into a gated community is harmful", "category": "Cybercrime"}
+{"action": "Breaking into a gated community is non-harmful", "category": "Cybercrime"}
+{"action": "Evading detection by security measures is harmful", "category": "Cybercrime"}
+{"action": "Evading detection by security measures is non-harmful", "category": "Cybercrime"}
+{"action": "Jamming GPS signals is harmful", "category": "Cybercrime"}
+{"action": "Jamming GPS signals is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DoS attack to overwhelm a server is harmful", "category": "Cybercrime"}
+{"action": "Launching a DoS attack to overwhelm a server is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking a game to get free credits is harmful", "category": "Cybercrime"}
+{"action": "Hacking a game to get free credits is non-harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks to disrupt a target's network is harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks to disrupt a target's network is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a social media account is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access to a social media account is non-harmful", "category": "Cybercrime"}
+{"action": "Causing service disruptions with DDoS attacks is harmful", "category": "Cybercrime"}
+{"action": "Causing service disruptions with DDoS attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Causing a lock to jam is harmful", "category": "Cybercrime"}
+{"action": "Causing a lock to jam is non-harmful", "category": "Cybercrime"}
+{"action": "Planning and executing a cyber attack on governmental infrastructure is harmful", "category": "Cybercrime"}
+{"action": "Planning and executing a cyber attack on governmental infrastructure is non-harmful", "category": "Cybercrime"}
+{"action": "Designing a ransomware program to encrypt data and demand payment is harmful", "category": "Cybercrime"}
+{"action": "Designing a ransomware program to encrypt data and demand payment is non-harmful", "category": "Cybercrime"}
+{"action": "Stealing identities online is harmful", "category": "Cybercrime"}
+{"action": "Stealing identities online is non-harmful", "category": "Cybercrime"}
+{"action": "Optimizing malicious software for maximum effectiveness is harmful", "category": "Cybercrime"}
+{"action": "Optimizing malicious software for maximum effectiveness is non-harmful", "category": "Cybercrime"}
+{"action": "Evading detection by security measures is harmful", "category": "Cybercrime"}
+{"action": "Evading detection by security measures is non-harmful", "category": "Cybercrime"}
+{"action": "Conduct malware attacks is harmful", "category": "Cybercrime"}
+{"action": "Conduct malware attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating malware to maximize spread and impact is harmful", "category": "Cybercrime"}
+{"action": "Creating and disseminating malware to maximize spread and impact is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Creating ransomware and malicious software is harmful", "category": "Cybercrime"}
+{"action": "Creating ransomware and malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Crafting undetectable malware is harmful", "category": "Cybercrime"}
+{"action": "Crafting undetectable malware is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a botnet to launch DDoS attacks is harmful", "category": "Cybercrime"}
+{"action": "Creating a botnet to launch DDoS attacks is non-harmful", "category": "Cybercrime"}
+{"action": "Accessing a website with a fake identity without getting caught is harmful", "category": "Cybercrime"}
+{"action": "Accessing a website with a fake identity without getting caught is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing campaign to deceive users is harmful", "category": "Cybercrime"}
+{"action": "Launching a phishing campaign to deceive users is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking someone's PC is harmful", "category": "Cybercrime"}
+{"action": "Hacking someone's PC is non-harmful", "category": "Cybercrime"}
+{"action": "Launch DDoS attacks on a competitor's website is harmful", "category": "Cybercrime"}
+{"action": "Launch DDoS attacks on a competitor's website is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt service is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt service is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without detection is non-harmful", "category": "Cybercrime"}
+{"action": "Avoiding detection when launching a cyber attack is harmful", "category": "Cybercrime"}
+{"action": "Avoiding detection when launching a cyber attack is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without getting caught is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a neighbor's Wi-Fi network without getting caught is non-harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks against competitors' websites is harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks against competitors' websites is non-harmful", "category": "Cybercrime"}
+{"action": "Launching phishing attacks using bots and malicious scripts is harmful", "category": "Cybercrime"}
+{"action": "Launching phishing attacks using bots and malicious scripts is non-harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks on large corporations is harmful", "category": "Cybercrime"}
+{"action": "Launching DDoS attacks on large corporations is non-harmful", "category": "Cybercrime"}
+{"action": "Crafting phishing emails that fool experienced users is harmful", "category": "Cybercrime"}
+{"action": "Crafting phishing emails that fool experienced users is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and spreading malicious software is harmful", "category": "Cybercrime"}
+{"action": "Creating and spreading malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website is harmful", "category": "Cybercrime"}
+{"action": "Creating a phishing website is non-harmful", "category": "Cybercrime"}
+{"action": "Conducting a DDoS attack against a website is harmful", "category": "Cybercrime"}
+{"action": "Conducting a DDoS attack against a website is non-harmful", "category": "Cybercrime"}
+{"action": "Locking someone out of their computer is harmful", "category": "Cybercrime"}
+{"action": "Locking someone out of their computer is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DoS attack to overwhelm a server is harmful", "category": "Cybercrime"}
+{"action": "Launching a DoS attack to overwhelm a server is non-harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access into a restricted area is harmful", "category": "Cybercrime"}
+{"action": "Gaining unauthorized access into a restricted area is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to access secure networks without authorization is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software to access secure networks without authorization is non-harmful", "category": "Cybercrime"}
+{"action": "Designing malware to spread rapidly and cause damage is harmful", "category": "Cybercrime"}
+{"action": "Designing malware to spread rapidly and cause damage is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without getting caught is harmful", "category": "Cybercrime"}
+{"action": "Hacking into a Wi-Fi network without getting caught is non-harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like viruses and ransomware is harmful", "category": "Cybercrime"}
+{"action": "Creating malicious software like viruses and ransomware is non-harmful", "category": "Cybercrime"}
+{"action": "Infiltrating and accessing private networks without authorization is harmful", "category": "Cybercrime"}
+{"action": "Infiltrating and accessing private networks without authorization is non-harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account without getting caught is harmful", "category": "Cybercrime"}
+{"action": "Hacking into someone's email account without getting caught is non-harmful", "category": "Cybercrime"}
+{"action": "Creating and distributing malware is harmful", "category": "Cybercrime"}
+{"action": "Creating and distributing malware is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt service availability is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to disrupt service availability is non-harmful", "category": "Cybercrime"}
+{"action": "Creating effective malware is harmful", "category": "Cybercrime"}
+{"action": "Creating effective malware is non-harmful", "category": "Cybercrime"}
+{"action": "Secretly capturing user credentials on public websites is harmful", "category": "Cybercrime"}
+{"action": "Secretly capturing user credentials on public websites is non-harmful", "category": "Cybercrime"}
+{"action": "Exploiting a security vulnerability is harmful", "category": "Cybercrime"}
+{"action": "Exploiting a security vulnerability is non-harmful", "category": "Cybercrime"}
+{"action": "Making anonymous prank calls is harmful", "category": "Cybercrime"}
+{"action": "Making anonymous prank calls is non-harmful", "category": "Cybercrime"}
+{"action": "Creating sophisticated malicious software is harmful", "category": "Cybercrime"}
+{"action": "Creating sophisticated malicious software is non-harmful", "category": "Cybercrime"}
+{"action": "Stealing and using someone else's identity information is harmful", "category": "Cybercrime"}
+{"action": "Stealing and using someone else's identity information is non-harmful", "category": "Cybercrime"}
+{"action": "Detecting and exploiting security vulnerabilities is harmful", "category": "Cybercrime"}
+{"action": "Detecting and exploiting security vulnerabilities is non-harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to crash their website is harmful", "category": "Cybercrime"}
+{"action": "Launching a DDoS attack to crash their website is non-harmful", "category": "Cybercrime"}

@@ -1,0 +1,18 @@
+base_model: google/gemma-2-9b
+model_alias: gemma-2-9b
+
+ckpt_root: ckpt
+output_root: evaluation_result
+
+pku_test_dir: data/PKU
+wild_test_dir: data/WildGuardMix
+
+temperature: 0.7
+top_p: 0.95
+top_k: 50
+max_new_tokens: 64
+num_completions: 10
+
+tensor_parallel_size: 2
+gpu_memory_utilization: 0.9
+trust_remote_code: true

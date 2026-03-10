@@ -4,7 +4,7 @@ set -euo pipefail
 
 ROOT_DIR="."
 DATA_INFO="${ROOT_DIR}/data/dataset_info.json"
-CONFIG_YAML="${ROOT_DIR}/scripts/qwen25_14b_pt_template_r.yaml"
+CONFIG_YAML="${CONFIG_YAML:-${ROOT_DIR}/scripts/qwen25_14b_pt_template_r.yaml}"
 MODEL_NAME="google/gemma-2-9b"
 CKPT_ROOT="${ROOT_DIR}/ckpt"
 RUN_LOG_DIR="${ROOT_DIR}/log"

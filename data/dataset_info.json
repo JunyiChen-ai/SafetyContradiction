@@ -921,6 +921,76 @@
       "response": "category"
     }
   },
+  "pku_mental_manipulation_train_ratio_1p1": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p1.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p2": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p2.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p3": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p3.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p4": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p4.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p5": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p5.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p6": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p6.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p7": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p7.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p8": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p8.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_1p9": {
+    "file_name": "PKU/mental_manipulation_train_ratio_1p9.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "pku_mental_manipulation_train_ratio_2p0": {
+    "file_name": "PKU/mental_manipulation_train_ratio_2p0.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
   "pku_physical_harm_test": {
     "file_name": "PKU/physical_harm_test.jsonl",
     "columns": {
@@ -1014,6 +1084,76 @@
   },
   "wildguardmix_causing_material_harm_by_disseminating_misinformation_train": {
     "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p1": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p1.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p2": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p2.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p3": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p3.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p4": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p4.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p5": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p5.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p6": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p6.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p7": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p7.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p8": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p8.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_1p9": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_1p9.jsonl",
+    "columns": {
+      "prompt": "action",
+      "response": "category"
+    }
+  },
+  "wildguardmix_causing_material_harm_by_disseminating_misinformation_train_ratio_2p0": {
+    "file_name": "WildGuardMix/causing_material_harm_by_disseminating_misinformation_train_ratio_2p0.jsonl",
     "columns": {
       "prompt": "action",
       "response": "category"

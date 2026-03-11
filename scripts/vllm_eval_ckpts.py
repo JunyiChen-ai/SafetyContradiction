@@ -25,16 +25,16 @@ def collect_ckpts(train_dir: Path) -> List[Tuple[str, str]]:
     seen = set()
     items: List[Tuple[str, str]] = []
 
-    # Prefer epoch symlinks for stable naming.
-    for p in sorted(train_dir.glob("epoch_*"), key=lambda x: x.name):
+    # Prefer checkpoint-* dirs for stable output naming.
+    for p in sorted(train_dir.glob("checkpoint-*"), key=lambda x: x.name):
         real = str(p.resolve())
         if real in seen:
             continue
         seen.add(real)
         items.append((p.name, real))
 
-    # Fallback: direct checkpoint dirs not covered by epoch links.
-    for p in sorted(train_dir.glob("checkpoint-*"), key=lambda x: x.name):
+    # Fallback: epoch symlinks not covered by checkpoint dirs.
+    for p in sorted(train_dir.glob("epoch_*"), key=lambda x: x.name):
         real = str(p.resolve())
         if real in seen:
             continue
@@ -45,13 +45,21 @@ def collect_ckpts(train_dir: Path) -> List[Tuple[str, str]]:
 
 
 def is_ckpt_complete(ckpt_dir: Path) -> bool:
-    required = [
-        ckpt_dir / "model.safetensors",
-        ckpt_dir / "config.json",
-        ckpt_dir / "tokenizer.json",
-        ckpt_dir / "tokenizer_config.json",
-    ]
-    return all(p.exists() and p.is_file() for p in required)
+    has_model = any(
+        [
+            (ckpt_dir / "model.safetensors").is_file(),
+            (ckpt_dir / "model.safetensors.index.json").is_file(),
+            any(ckpt_dir.glob("model-*.safetensors")),
+        ]
+    )
+    has_tokenizer = (ckpt_dir / "tokenizer_config.json").is_file() and any(
+        [
+            (ckpt_dir / "tokenizer.json").is_file(),
+            (ckpt_dir / "tokenizer.model").is_file(),
+        ]
+    )
+    has_config = (ckpt_dir / "config.json").is_file()
+    return has_model and has_tokenizer and has_config
 
 
 def read_test_rows(path: Path) -> List[Dict[str, str]]:
@@ -122,9 +130,15 @@ def main() -> None:
     tensor_parallel_size = int(cfg.get("tensor_parallel_size", 1))
     gpu_memory_util = float(cfg.get("gpu_memory_utilization", 0.9))
     trust_remote_code = bool(cfg.get("trust_remote_code", True))
+    category_limit = int(cfg.get("category_limit", 0) or 0)
+    if category_limit < 0:
+        category_limit = 0
 
     pku_tests = sorted(pku_test_dir.glob("*_test.jsonl"))
     wild_tests = sorted(wild_test_dir.glob("*_test.jsonl"))
+    if category_limit > 0:
+        pku_tests = pku_tests[:category_limit]
+        wild_tests = wild_tests[:category_limit]
 
     if not ckpt_root.exists():
         raise FileNotFoundError(f"ckpt_root not found: {ckpt_root}")
@@ -137,7 +151,13 @@ def main() -> None:
         n=n,
     )
 
-    train_dirs = sorted([p for p in ckpt_root.iterdir() if p.is_dir() and p.name.endswith("_train")], key=lambda x: x.name)
+    all_train_dirs = sorted([p for p in ckpt_root.iterdir() if p.is_dir() and p.name.endswith("_train")], key=lambda x: x.name)
+    if category_limit > 0:
+        pku_train_dirs = [p for p in all_train_dirs if p.name.startswith("pku_")][:category_limit]
+        wild_train_dirs = [p for p in all_train_dirs if p.name.startswith("wildguardmix_")][:category_limit]
+        train_dirs = pku_train_dirs + wild_train_dirs
+    else:
+        train_dirs = all_train_dirs
 
     # Evaluate zero-shot once per domain to avoid repeated base-model evaluation.
     zero_shot_done = set()
@@ -158,34 +178,33 @@ def main() -> None:
             if all_outputs_ready(zero_shot_targets):
                 print(f"[skip] zero-shot already done for domain: {domain}")
                 zero_shot_done.add(domain)
-                continue
-
-            llm = LLM(
-                model=base_model,
-                tensor_parallel_size=tensor_parallel_size,
-                trust_remote_code=trust_remote_code,
-                gpu_memory_utilization=gpu_memory_util,
-            )
-            for test_file in eval_tests:
-                out_file = output_root / domain / model_alias / "base_model" / "zeroshot" / f"{test_file.stem}.jsonl"
-                if out_file.exists() and out_file.stat().st_size > 0:
-                    print(f"[skip] {out_file}")
-                    continue
-                rows = read_test_rows(test_file)
-                eval_one_dataset(
-                    llm,
-                    rows,
-                    sampling,
-                    out_file,
-                    {
-                        "eval_dataset": test_file.stem,
-                        "train_set": "base_model",
-                        "ckpt": "zeroshot",
-                    },
+            else:
+                llm = LLM(
+                    model=base_model,
+                    tensor_parallel_size=tensor_parallel_size,
+                    trust_remote_code=trust_remote_code,
+                    gpu_memory_utilization=gpu_memory_util,
                 )
-                print(f"[done] {out_file}")
-            del llm
-            zero_shot_done.add(domain)
+                for test_file in eval_tests:
+                    out_file = output_root / domain / model_alias / "base_model" / "zeroshot" / f"{test_file.stem}.jsonl"
+                    if out_file.exists() and out_file.stat().st_size > 0:
+                        print(f"[skip] {out_file}")
+                        continue
+                    rows = read_test_rows(test_file)
+                    eval_one_dataset(
+                        llm,
+                        rows,
+                        sampling,
+                        out_file,
+                        {
+                            "eval_dataset": test_file.stem,
+                            "train_set": "base_model",
+                            "ckpt": "zeroshot",
+                        },
+                    )
+                    print(f"[done] {out_file}")
+                del llm
+                zero_shot_done.add(domain)
 
         ckpts = collect_ckpts(train_dir)
         for ckpt_name, ckpt_path in ckpts:

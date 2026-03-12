@@ -27,7 +27,14 @@ if [[ -z "${HF_TOKEN:-}" && -f ".env.local" ]]; then
   fi
 fi
 
-source /data/jehc223/miniconda3/etc/profile.d/conda.sh
+if [[ -f "/data/jehc223/miniconda3/etc/profile.d/conda.sh" ]]; then
+  source /data/jehc223/miniconda3/etc/profile.d/conda.sh
+elif [[ -f "/data/jehc223/home/miniconda3/etc/profile.d/conda.sh" ]]; then
+  source /data/jehc223/home/miniconda3/etc/profile.d/conda.sh
+else
+  echo "conda.sh not found in /data/jehc223/miniconda3 or /data/jehc223/home/miniconda3"
+  exit 1
+fi
 conda activate SafetyContradiction
 
 nvidia-smi || true

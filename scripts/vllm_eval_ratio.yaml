@@ -1,0 +1,28 @@
+base_model: google/gemma-2-2b
+model_alias: gemma-2-2b
+
+ckpt_root: ckpt/gemma-2-2b/ratio_variance
+output_root: evaluation_result
+
+pku_test_dir: data/PKU
+wild_test_dir: data/WildGuardMix
+
+ratio_values:
+  - "1.5"
+  - "1.6"
+  - "1.7"
+  - "1.8"
+  - "1.9"
+  - "2.0"
+eval_limit: 0
+
+temperature: 0.7
+top_p: 0.95
+top_k: 50
+max_new_tokens: 64
+num_completions: 10
+batch_size: 10
+
+tensor_parallel_size: 2
+gpu_memory_utilization: 0.9
+trust_remote_code: true

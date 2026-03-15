@@ -184,6 +184,5 @@ generated_predictions.jsonl
 predictions_score.json
 evaluation_result/
 log/
-plot/
 ckpt
 ckpt_qwen25_14b_pt
